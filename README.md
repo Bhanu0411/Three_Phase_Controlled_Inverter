@@ -16,7 +16,7 @@ Working on Hardware project Basically Rectifier is used to Convert DC Current to
 Improving my skills to deal the electrical equipment with the MATLAB Software.
 # Screenshots
 * ARCHITECTURE OF SINGLE PHASE INVERTERBLOCK DIAGRAM
-![image](https://user-images.githubusercontent.com/112017748/190848401-9ca3dd0c-6135-433e-bc0f-2a1680548a9d.png)
+![image](https://user-images.githubusercontent.com/112017748/190848401-9ca3dd0c-6135-433e-bc0f-2a1680548a9d.png | width=100)
 
 * MATLAB CIRCUIT DESIGN
 ![image](https://user-images.githubusercontent.com/112017748/190848443-cc0029a5-e216-4cc0-91e4-745159b75df7.png)
