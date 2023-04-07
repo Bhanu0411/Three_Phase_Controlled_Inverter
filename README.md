@@ -20,8 +20,6 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 * Came to know how to burn MATLAB Simulink in Arduino UNO.
 
 # Screenshots
-* ARCHITECTURE OF SINGLE PHASE INVERTER BLOCK DIAGRAM
-![image](https://user-images.githubusercontent.com/112017748/190848401-9ca3dd0c-6135-433e-bc0f-2a1680548a9d.png)
 
 * MATLAB CIRCUIT DESIGN
 ![image](https://user-images.githubusercontent.com/112017748/190848443-cc0029a5-e216-4cc0-91e4-745159b75df7.png)
