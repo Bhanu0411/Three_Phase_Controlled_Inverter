@@ -29,14 +29,20 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 * Sine + Carrier Wave Output
 ![image](https://user-images.githubusercontent.com/112017748/190848490-446d147b-8f9e-45ca-ba22-175d91c40f56.png)
 
-* OUTPUT VOLTAGE
-![image](https://user-images.githubusercontent.com/112017748/190848521-fa7ff5be-0c32-45c4-ac3b-6b69543eec9d.png)
 
-* Circuit used for Final PWM with Deadtime 
-![image](https://user-images.githubusercontent.com/112017748/190848624-0eade1ee-b7d1-4a68-9bda-c4bee396fdfd.png)
+*  Hardware Design & Implementation
+![image](https://user-images.githubusercontent.com/112017748/230600337-0cc51137-7dc8-4d53-a990-fcda459df49a.png)
 
-* Modified PWM with deadtime
-![image](https://user-images.githubusercontent.com/112017748/190848645-fef1a4d0-7918-406e-b94d-fa1fbac4f31d.png)
+*  The hardware implementation for the following circuits below is discussed in detail.
+*  •	Power  circuit module 		Control circuit Module
+*  •	Pulse Card				Driver circuit Module
+
+*  Block Diagram of Single Phase Inverter
+![image](https://user-images.githubusercontent.com/112017748/230600298-9846f129-6b6e-4ead-b0ac-b4c93fbe2025.png)
+
+* Pulse Card 
+![image](https://user-images.githubusercontent.com/112017748/230600461-180b0da3-9291-4988-b094-3a33bcb0b2f5.png)
+
 
 * HARDWARE OUTPUT
 * Pulse Given to Opposite Driver circuit
