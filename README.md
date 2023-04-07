@@ -26,11 +26,11 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 
 
 *  Hardware Design & Implementation
-![image](https://user-images.githubusercontent.com/112017748/230600337-0cc51137-7dc8-4d53-a990-fcda459df49a.png)
 
+*  Block Diagram of Single Phase Inverter
 *  The hardware implementation for the following circuits below is discussed in detail.
 ![image](https://user-images.githubusercontent.com/112017748/230600337-0cc51137-7dc8-4d53-a990-fcda459df49a.png)
-*  Block Diagram of Single Phase Inverter
+
 ![image](https://user-images.githubusercontent.com/112017748/230600298-9846f129-6b6e-4ead-b0ac-b4c93fbe2025.png)
 
 * Pulse Card 
