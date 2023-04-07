@@ -25,8 +25,6 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 ![image](https://user-images.githubusercontent.com/112017748/190848443-cc0029a5-e216-4cc0-91e4-745159b75df7.png)
 
 
-*  Hardware Design & Implementation
-
 *  Block Diagram of Single Phase Inverter
 *  The hardware implementation for the following circuits below is discussed in detail.
 ![image](https://user-images.githubusercontent.com/112017748/230600337-0cc51137-7dc8-4d53-a990-fcda459df49a.png)
@@ -38,8 +36,9 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 ![image](https://user-images.githubusercontent.com/112017748/230600461-180b0da3-9291-4988-b094-3a33bcb0b2f5.png)
 
 
-* HARDWARE OUTPUT
+*  Hardware Design & Implementation
 * ![image](https://user-images.githubusercontent.com/112017748/230600298-9846f129-6b6e-4ead-b0ac-b4c93fbe2025.png)
+* HARDWARE OUTPUT
 * Pulse Given to Opposite Driver circuit
 ![image](https://user-images.githubusercontent.com/112017748/230599694-068572e7-2d34-4e36-a60a-38068552bcfe.png)
 * Pulses Given to Two Adjacent Driver Circuit 
@@ -49,12 +48,3 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 * Line to Line Output (In Star Connected Load)
 ![image](https://user-images.githubusercontent.com/112017748/230599747-c62b83f6-56ba-4924-8a0f-1a5d8494ca4d.png)
 
-# Progress
-
-Till now we have completed the First phase of this Project
-
-* In phase 1 Do all the simulation on the MATLAB and Properly analys the result.
-
-* In phase 2 we are going to implement Every individual circuit(e.g Bridge Circuit, MOSFET Gate Driver etc) and check the output of individual circuit.
-
-* In phase 3 we Make the connection between ARDUINO UNO, MATLAB , and the Hardware Circuit that we implement.
