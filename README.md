@@ -26,9 +26,6 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 * MATLAB CIRCUIT DESIGN
 ![image](https://user-images.githubusercontent.com/112017748/190848443-cc0029a5-e216-4cc0-91e4-745159b75df7.png)
 
-* Sine + Carrier Wave Output
-![image](https://user-images.githubusercontent.com/112017748/190848490-446d147b-8f9e-45ca-ba22-175d91c40f56.png)
-
 
 *  Hardware Design & Implementation
 ![image](https://user-images.githubusercontent.com/112017748/230600337-0cc51137-7dc8-4d53-a990-fcda459df49a.png)
