@@ -31,13 +31,15 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 *  The hardware implementation for the following circuits below is discussed in detail.
 ![image](https://user-images.githubusercontent.com/112017748/230600337-0cc51137-7dc8-4d53-a990-fcda459df49a.png)
 
-![image](https://user-images.githubusercontent.com/112017748/230600298-9846f129-6b6e-4ead-b0ac-b4c93fbe2025.png)
+
 
 * Pulse Card 
+
 ![image](https://user-images.githubusercontent.com/112017748/230600461-180b0da3-9291-4988-b094-3a33bcb0b2f5.png)
 
 
 * HARDWARE OUTPUT
+* ![image](https://user-images.githubusercontent.com/112017748/230600298-9846f129-6b6e-4ead-b0ac-b4c93fbe2025.png)
 * Pulse Given to Opposite Driver circuit
 ![image](https://user-images.githubusercontent.com/112017748/230599694-068572e7-2d34-4e36-a60a-38068552bcfe.png)
 * Pulses Given to Two Adjacent Driver Circuit 
