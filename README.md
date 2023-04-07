@@ -38,6 +38,15 @@ Working on Hardware project Basically Inverter is used to Convert DC Current to 
 * Modified PWM with deadtime
 ![image](https://user-images.githubusercontent.com/112017748/190848645-fef1a4d0-7918-406e-b94d-fa1fbac4f31d.png)
 
+* HARDWARE OUTPUT
+* Pulse Given to Opposite Driver circuit
+![image](https://user-images.githubusercontent.com/112017748/230599694-068572e7-2d34-4e36-a60a-38068552bcfe.png)
+* Pulses Given to Two Adjacent Driver Circuit 
+![image](https://user-images.githubusercontent.com/112017748/230599717-4ddf3a9f-b4f8-4a12-b9fb-d36aa8fd6a23.png)
+* Line To Phase Output(In Star Connected Load)
+![image](https://user-images.githubusercontent.com/112017748/230599733-940bf4c9-a423-47d1-b392-92d601358057.png)
+* Line to Line Output (In Star Connected Load)
+![image](https://user-images.githubusercontent.com/112017748/230599747-c62b83f6-56ba-4924-8a0f-1a5d8494ca4d.png)
 
 # Progress
 
